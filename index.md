@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/KitschSX/KitschSX.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+这个页面用来记录一些杂乱的小东西。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Windows 自用软件与插件等
 
-### Markdown
+* Ear Trumpet
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  微软商店下载  可对每个软件和音频设备单独调节音量
 
-```markdown
-Syntax highlighted code block
+- Math pix Snipping Tool
 
-# Header 1
-## Header 2
-### Header 3
+  百度找破解版 图片公式识别，可转成latex，正版每月限50次，通常够用。
 
-- Bulleted
-- List
+- Quicker
 
-1. Numbered
-2. List
+  官网 生产力工具，快捷集成各种小功能，快捷工具箱，可对特定应用单独设置，官方社区还在发展，未来可期。
 
-**Bold** and _Italic_ and `Code` text
+- clash
 
-[Link](url) and ![Image](src)
-```
+  github 翻墙用，可自行配置不同网址的代理策略和规则。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- copy translator
 
-### Jekyll Themes
+  github 翻译软件不解释。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KitschSX/KitschSX.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- SpaceSniffer
 
-### Support or Contact
+  文件资源可视化查看管理，清理内存的好帮手。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Bandizip
+
+  解压缩软件。
+
