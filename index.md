@@ -32,3 +32,21 @@
 
   解压缩软件。
 
+- Microsoft to do
+
+  任务清单，配合手机微软桌面多端自动同步。
+
+- OneTab Plus:标签效率管理扩展  (chrome插件)
+
+  解决新版edge标签收纳痛点
+
+- Vimium C  (chrome插件)
+
+  运用键盘实现鼠标点击网页的大部分功能，双手不再需要离开键盘。
+
+- Octotree  (chrome插件)
+
+  便捷查看github项目结构并跳转。
+
+- 侧边翻译  (chrome插件)
+
