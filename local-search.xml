@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2022/11/01/%E6%84%9F%E7%9F%A5%E6%9C%BA%EF%BC%88PLA%EF%BC%89/"/>
+    <url>/2022/11/01/%E6%84%9F%E7%9F%A5%E6%9C%BA%EF%BC%88PLA%EF%BC%89/</url>
+    
+    <content type="html"><![CDATA[<h1 id="感知机（PLA）"><a href="#感知机（PLA）" class="headerlink" title="感知机（PLA）"></a>感知机（PLA）</h1><h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><p>是一种二分类的线性分类模型，例如在一个平面上，为了将事物分为两类，感知机模型需要找出一条直线，使得将两类事物分隔开；而在更高维的空间中，感知机的模型就是尝试找到一个超平面，把所有的二元类别分隔开。从数学的角度看，需要找到这样的超平面：$\theta_0 + \theta_{1}x_1 + … + \theta_{n}x_{n} &#x3D; 0$同时让两种分类类别的其中一种满足$\theta_0 + \theta_{1}x_1 + … + \theta_{n}x_{n} &gt; 0$，并使另一种满足$\theta_0 + \theta_{1}x_1 + … + \theta_{n}x_{n} &lt; 0$，从而得到线性可分。而如果能够线性可分，大多数情况下这样的超平面一般不唯一，对于感知机而言可以有多个解。</p><p>首先简化超平面写法，定义$X_0&#x3D;1$，这样超平面可以写成 $\sum\limits_{i&#x3D;0}^{n}\theta_{i}x_{i} &#x3D; 0$，进一步用向量来表示为：$\theta \bullet x &#x3D; 0$，而感知机的模型可以定义为：$y &#x3D; sign(\theta \bullet x)$其中：$sign(x)&#x3D; \begin{cases} -1&amp; {x&lt;0}\ 1&amp; {x\geq 0} \end{cases}$</p><h2 id="基本结构"><a href="#基本结构" class="headerlink" title="基本结构"></a>基本结构</h2><p><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Ncell.png"></p><h2 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h2><p>简单易懂，编程实现容易</p><h2 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h2><p>太古老，只能处理线性可分数据，</p><h2 id="激活函数"><a href="#激活函数" class="headerlink" title="激活函数"></a>激活函数</h2><h2 id="损失函数"><a href="#损失函数" class="headerlink" title="损失函数"></a>损失函数</h2><h2 id="学习方法"><a href="#学习方法" class="headerlink" title="学习方法"></a>学习方法</h2><h2 id="实验例子"><a href="#实验例子" class="headerlink" title="实验例子"></a>实验例子</h2><h3 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h3>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/10/30/hello-world/"/>
     <url>/2022/10/30/hello-world/</url>
