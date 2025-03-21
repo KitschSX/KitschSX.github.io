@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "接头5.moc3",
+		"Textures": [
+			"接头5.8192/texture_00.png",
+			"接头5.8192/texture_01.png",
+			"接头5.8192/texture_02.png",
+			"接头5.8192/texture_03.png"
+		],
+		"Physics": "接头5.physics3.json",
+		"DisplayInfo": "接头5.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

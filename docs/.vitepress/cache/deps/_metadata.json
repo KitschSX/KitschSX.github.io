@@ -1,0 +1,61 @@
+{
+  "hash": "24f378db",
+  "configHash": "c25fd2f3",
+  "lockfileHash": "064c4abe",
+  "browserHash": "fec45518",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "1da2c29b",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "f8757ea0",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "ff72f7b9",
+      "needsInterop": false
+    },
+    "pixi.js": {
+      "src": "../../../../node_modules/pixi.js/dist/esm/pixi.mjs",
+      "file": "pixi__js.js",
+      "fileHash": "dcdd36e7",
+      "needsInterop": false
+    },
+    "pixi-live2d-display/cubism4": {
+      "src": "../../../../node_modules/pixi-live2d-display/dist/cubism4.es.js",
+      "file": "pixi-live2d-display_cubism4.js",
+      "fileHash": "a743a3e4",
+      "needsInterop": false
+    },
+    "pixi-live2d-display": {
+      "src": "../../../../node_modules/pixi-live2d-display/dist/index.es.js",
+      "file": "pixi-live2d-display.js",
+      "fileHash": "87e61455",
+      "needsInterop": false
+    },
+    "oh-my-live2d": {
+      "src": "../../../../node_modules/oh-my-live2d/dist/index.js",
+      "file": "oh-my-live2d.js",
+      "fileHash": "6d0ef0ed",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-LW4I4DCF": {
+      "file": "chunk-LW4I4DCF.js"
+    },
+    "chunk-HF6DPAGK": {
+      "file": "chunk-HF6DPAGK.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}

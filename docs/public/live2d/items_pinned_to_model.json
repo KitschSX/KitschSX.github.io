@@ -1,0 +1,119 @@
+{
+    "FileMetadata": {
+        "LastSavedVTubeStudioVersion": "1.29.0",
+        "LastSavedPlatform": "Steam",
+        "LastSavedDateUTC": "Monday, 23 September 2024, 17:40:19",
+        "LastSavedDateLocalTime": "Tuesday, 24 September 2024, 01:40:19",
+        "LastSavedDateUnixMillisecondTimestamp": "1727113219439"
+    },
+    "SceneName": "",
+    "SceneGroupName": "",
+    "SceneModel": "",
+    "SceneID": "",
+    "Items": [
+        {
+            "ItemName": "0_圆形[圆碰撞][受击倍数=1][可隐藏](@xiaoye97)",
+            "ItemObjectInScene": {
+                "m_FileID": -66204,
+                "m_PathID": 0
+            },
+            "ItemFileName": "0_圆形[圆碰撞][受击倍数=1][可隐藏](@xiaoye97).png",
+            "ItemInstanceUUID": "706ee609e05c42599cb5132567823bcb",
+            "Selected": true,
+            "TrackingModel": true,
+            "IsAnimated": false,
+            "IsVideo": false,
+            "IsModel": false,
+            "IsWeb": false,
+            "IsCensored": false,
+            "IsFlipped": false,
+            "IsLocked": false,
+            "Smoothing": 0.0,
+            "Order": 1,
+            "FPS": 0.0,
+            "IsPinned": true,
+            "PinnedTo": "ArtMesh32",
+            "PinnedModel_Live2D": "接头5",
+            "PinnedModel_VTS": "接头5",
+            "PinnedModel_InternalID": "48888c1ff70249b8bdc0bdc89945cced",
+            "PinnedVertexIDs": "283 282 288 277 289 287",
+            "PinnedVertexPositions": [
+                {
+                    "x": -0.006704831495881081,
+                    "y": 0.5780943036079407,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.013541233725845814,
+                    "y": 0.5783109068870544,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.010411038063466549,
+                    "y": 0.5722103714942932,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.010050036013126374,
+                    "y": 0.584096372127533,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.0034298463724553587,
+                    "y": 0.5720468759536743,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.016883712261915208,
+                    "y": 0.5724168419837952,
+                    "z": 0.0
+                }
+            ],
+            "PinnedVertexCenterOffset": {
+                "x": 0.0005087573081254959,
+                "y": 0.000993490219116211,
+                "z": 0.0
+            },
+            "Size": 0.08023252338171005,
+            "ModelScaleMultiplier": 0.008914724923670292,
+            "Rotation": 358.9606628417969,
+            "Position": {
+                "x": -0.008810470812022686,
+                "y": 0.5937326550483704,
+                "z": 0.0
+            },
+            "Group": "",
+            "Scene": "",
+            "AssetType": 1,
+            "FromWorkshop": false,
+            "FromHotkey": false,
+            "FromAPI": false,
+            "FadeTime": 0.5,
+            "Plugin": "",
+            "WebItemURL": "",
+            "WebItemUseCustomCSS": false,
+            "WebItemCustomCSS": "body {\n    background-color: rgba(0, 0, 0, 0);\n    margin: 0px auto;\n    overflow: hidden;\n}",
+            "WebItemZoomPercent": 100,
+            "WebItemAlphaMultiplier": 1.0,
+            "WebItemCropLeftRightTopBottom": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "WebItemSizeInUnityUnits": {
+                "x": 0.6000000238418579,
+                "y": 0.30000001192092898
+            },
+            "WebItemSizeInPixels": {
+                "x": 1024,
+                "y": 576
+            },
+            "WebItemMuted": false,
+            "WebItemAllowLocalURLs": false,
+            "WebItemAllowTransparentBackground": true,
+            "WebItemInteractable": true,
+            "WebItemScrollSensitivity": 0.4000000059604645
+        }
+    ]
+}
