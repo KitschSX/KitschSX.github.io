@@ -34,6 +34,15 @@ export default {
                     disable: true,
                 }
             });
+            // 等待 Live2D 模型加载后手动给 oml2d-stage 添加动画
+            setTimeout(() => {
+                const stage = document.querySelector('.oml2d-stage');
+                if (stage) {
+                    stage.style.animationName = "oml2d-stage-slide-in";
+                    stage.style.animationDuration = "1000ms";
+                    stage.style.animationFillMode = "forwards";
+                }
+            }, 10000); // 延迟等待 DOM 渲染
         }
     }
 };

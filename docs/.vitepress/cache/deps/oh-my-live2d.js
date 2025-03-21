@@ -6145,7 +6145,6 @@ var G2 = {
   right: "auto",
   bottom: 0,
   zIndex: "9997",
-  transform: "translateY(130%)"
 };
 var af = {
   position: "absolute",
