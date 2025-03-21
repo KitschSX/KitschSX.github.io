@@ -18,7 +18,7 @@ export default {
                     items: []
                 },
                 dockedPosition: "right",
-                transitionTime: 1000,
+                transitionTime: 10000,
                 tips: {
                     style: {
                         top: "450px",
