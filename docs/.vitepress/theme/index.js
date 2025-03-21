@@ -36,7 +36,8 @@ export default {
             });
             // 等待 Live2D 模型加载后手动给 oml2d-stage 添加动画
             setTimeout(() => {
-                const stage = document.querySelector('.oml2d-stage');
+                const stage = document.querySelector('#oml2d-stage');
+                console.log("滑入")
                 if (stage) {
                     stage.style.animationName = "oml2d-stage-slide-in";
                     stage.style.animationDuration = "1000ms";
