@@ -17,7 +17,20 @@ export default {
                     items: []
                 },
                 initialStatus: "sleep",
-                dockedPosition: "right"
+                dockedPosition: "right",
+                transitionTime: 3000,
+                tips: {
+                    style: {
+                        top: "450px",
+                        left: "298px",
+                        backgroundColor: "rgba(0, 0, 0, 0)",
+                        color: "#036261", // 文字颜色
+                        border: "none"
+                    }
+                },
+                statusBar: {
+                    disable: true,
+                }
             });
         }
     }
