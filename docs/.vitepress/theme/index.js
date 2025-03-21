@@ -18,7 +18,7 @@ export default {
                 },
                 initialStatus: "sleep",
                 dockedPosition: "right",
-                transitionTime: 3000,
+                transitionTime: 20000,
                 tips: {
                     style: {
                         top: "450px",
