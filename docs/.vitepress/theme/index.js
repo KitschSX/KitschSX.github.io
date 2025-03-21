@@ -17,7 +17,6 @@ export default {
                 menus: {
                     items: []
                 },
-                initialStatus: "sleep",
                 dockedPosition: "right",
                 transitionTime: 1000,
                 tips: {
@@ -43,7 +42,7 @@ export default {
                     stage.style.animationDuration = "1000ms";
                     stage.style.animationFillMode = "forwards";
                 }
-            }, 10000); // 延迟等待 DOM 渲染
+            }, 1000); // 延迟等待 DOM 渲染
         }
     }
 };
