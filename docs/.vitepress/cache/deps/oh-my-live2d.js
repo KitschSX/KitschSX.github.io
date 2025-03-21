@@ -28588,9 +28588,6 @@ var cA = class {
         }).then(() => {
           var t, e;
           (t = this.pixiApp) == null || t.mount(this.models.model), this.menus.reload(this.stage.element), this.tips.reload(this.stage.element), this.models.settingModel(), this.stage.reloadStyle(this.models.modelSize), (e = this.pixiApp) == null || e.resize(), this.statusBar.hideLoading();
-            setTimeout(() => {
-                document.querySelector('.live2d-container').classList.add('show');
-            }, 20000);
         });
       }
     });

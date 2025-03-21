@@ -9,8 +9,9 @@ export default {
             loadOml2d({
                 models: [
                     {
-                        path: '/live2d/接头5.model3.json',
-                        position: [100,500]
+                        path: '/live2d/拷贝形象.model3.json',
+                        position: [50,250],
+                        scale: 0.05
                     }
                 ],
                 menus: {
@@ -18,7 +19,7 @@ export default {
                 },
                 initialStatus: "sleep",
                 dockedPosition: "right",
-                transitionTime: 20000,
+                transitionTime: 1000,
                 tips: {
                     style: {
                         top: "450px",
@@ -28,6 +29,7 @@ export default {
                         border: "none"
                     }
                 },
+
                 statusBar: {
                     disable: true,
                 }
