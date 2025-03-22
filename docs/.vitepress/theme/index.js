@@ -33,7 +33,9 @@ export default {
                         display: "none"
                     }
                 },
-
+                stageStyle: {
+                    pointerEvents: "none",
+                },
                 statusBar: {
                     disable: true,
                 },
