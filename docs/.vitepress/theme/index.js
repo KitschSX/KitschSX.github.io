@@ -11,7 +11,9 @@ export default {
                     {
                         path: '/live2d/拷贝形象.model3.json',
                         position: [50,250],
-                        scale: 0.05
+                        scale: 0.05,
+                        mobilePosition: [0,250],
+                        mobileScale: 0.05,
                     }
                 ],
                 menus: {
@@ -26,12 +28,19 @@ export default {
                         backgroundColor: "rgba(0, 0, 0, 0)",
                         color: "#036261", // 文字颜色
                         border: "none"
+                    },
+                    mobileStyle: {
+                        display: "none"
                     }
                 },
 
                 statusBar: {
                     disable: true,
-                }
+                },
+
+
+                mobileDisplay: true,
+
             });
             // 等待 Live2D 模型加载后手动给 oml2d-stage 添加动画
             setTimeout(() => {
